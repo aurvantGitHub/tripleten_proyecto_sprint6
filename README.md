@@ -1,4 +1,4 @@
-# tripleten_proyecto_sprint6
+# Pronóstico de ventas para tienda online de videojuegos
 Proyecto Integrado 1 del Bootcamp de Analisis de Datos de Tripleten
 
 Este proyecto forma parte del Bootcamp de Analisis de Datos de Tripleten. Es el primer proyecto proyecto integrado y comprende una muestra de las habilidades adquiridas a lo largo del programa (Python, preprocesamiento de datos, analisis exploratorio de datos analisis estadistico y comunicacion de resultados).
