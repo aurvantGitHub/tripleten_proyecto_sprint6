@@ -10,3 +10,5 @@ Se realiza una limpieza de los datos, se determina el periodo relevante a analiz
 El proyecto se realiza en un Jupyter notebook y cuenta con los comentarios, resultados, explicaciones y conclusiones del caso.
 
 Muchas gracias!
+
+# Sales forecast for video game online store
