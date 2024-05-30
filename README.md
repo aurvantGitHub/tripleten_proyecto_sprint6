@@ -12,3 +12,13 @@ El proyecto se realiza en un Jupyter notebook y cuenta con los comentarios, resu
 Muchas gracias!
 
 # Sales forecast for video game online store
+
+This project is part of Tripleten's Data Analytics Bootcamp. It is the first integrated project and comprises a sample of the skills acquired throughout the program (Python, data preprocessing, exploratory data analysis, statistical analysis and communication of results).
+
+In this project we have a database of video games (name, release, platform, critic score, user score, sales) and we seek to analyze the most relevant data for sales forecasting and campaigns for the next year (in this case, 2017).
+
+A data cleaning is performed, the relevant period to be analyzed is determined, the most profitable/relevant/leading platforms and genres are found, user profiles by region are elaborated and hypothesis tests are performed on the critics' scores.
+
+The project is done on a Jupyter notebook and has the comments, results, explanations and conclusions of the case.
+
+Thank you very much!
